@@ -1,0 +1,43 @@
+<mjml>
+  <mj-head>
+    <mj-include path="./style.mjml" />
+  </mj-head>
+  <mj-body background-color="#f5f5f0">
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h2 style="margin: 1em 0; text-align: center; letter-spacing: .02em; font-size:35px; color:#3d3d29; font-family:'Helvetica,Arial',sans-serif"> Candle & Co </h2>
+        </mj-text>
+      </mj-columm>
+    </mj-section>
+   <mj-raw>
+      <!-- Side image -->
+    </mj-raw>
+    <mj-section background-color="white">
+      <mj-raw>
+        <!-- Left image -->
+      </mj-raw>
+      <mj-column>
+        <mj-image alt="single candle" height="200px" src="https://cdn.shopify.com/s/files/1/0957/2216/products/small_spruce_candle_480x480.jpg?v=1541616059"></mj-image>
+      </mj-column>
+      <mj-raw>
+        <!-- right paragraph -->
+      </mj-raw>
+      <mj-column>
+        <mj-text align="center" font-size="20px" font-family="Helvetica Neue" color="#626262">Find Amazing Scents</mj-text>
+        <mj-text color="#525252">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Side image -->
+    </mj-raw>
+    <mj-section background-color="white">
+      <mj-raw>
+        <!-- Left image -->
+      </mj-raw>
+      <mj-column>
+        <mj-image alt="collection of candles" height="300px" src="https://d2fni493fitngs.cloudfront.net/blog/wp-content/uploads/2017/01/03035439/pfcandle-planoly-blog-cover.jpg"></mj-image>
+        <mj-button href="#"> SHOP COLLECTION</mj-button>
+      </mj-column>
+  </mj-body>
+</mjml>
